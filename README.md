@@ -2,7 +2,7 @@
 
 I'm a backend engineer, and I'm interested in Functional Programming, effect systems, software
 engineering/craftsmanship, clean code, architectural/design patterns, API definition & tooling,
-and programming languages theory.
+and programming languages theory. Also I'm a Blockchain and Web3 enthusiast 😊.
 
 <br/>
 
