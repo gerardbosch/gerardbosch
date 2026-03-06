@@ -10,6 +10,10 @@ and programming languages theory. Also I'm a Blockchain and Web3 enthusiast 😊
 
 <br/>
 
+and about my best practices at 🏗️ [https://practices.gerardbosch.xyz/](https://practices.gerardbosch.xyz/)
+
+<br/>
+
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
